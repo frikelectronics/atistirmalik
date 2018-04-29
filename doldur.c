@@ -11,3 +11,12 @@ if(kahve_vakti)
   yakBiTane=1;
 else
   deevam=1;
+
+switch(blablabla)
+  case bla:
+    break;
+  case bla:
+    break;
+  defult:
+    break;
+

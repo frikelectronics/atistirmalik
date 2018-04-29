@@ -11,3 +11,14 @@ while(kahve)
   doldur=1;
 
 
+
+switch(blablabla)
+  case bla:
+    break;
+  case bla:
+    break;
+  defult:
+    break;
+while(true)
+  false;
+

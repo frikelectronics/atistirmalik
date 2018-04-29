@@ -19,4 +19,4 @@ switch(blablabla)
     break;
   defult:
     break;
-
+while(true)

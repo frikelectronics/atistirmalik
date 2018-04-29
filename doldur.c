@@ -7,4 +7,7 @@ doldursana=1;
 else
 bosalsana=1;
 
+while(kahve)
+  doldur=1;
+
 

@@ -12,13 +12,5 @@ while(kahve)
 
 
 
-switch(blablabla)
-  case bla:
-    break;
-  case bla:
-    break;
-  defult:
-    break;
-while(true)
-  false;
+bunlar hep bahane;
 

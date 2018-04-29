@@ -9,3 +9,5 @@ bosalsana=1;
 
 if(kahve_vakti)
   yakBiTane=1;
+else
+  deevam=1;

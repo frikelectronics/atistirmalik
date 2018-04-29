@@ -20,3 +20,4 @@ switch(blablabla)
   defult:
     break;
 while(true)
+  false;

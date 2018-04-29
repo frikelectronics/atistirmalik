@@ -1,0 +1,2 @@
+# atistirmalik
+pazarDenemeleri

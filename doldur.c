@@ -7,10 +7,10 @@ doldursana=1;
 else
 bosalsana=1;
 
-if(kahve_vakti)
-  yakBiTane=1;
-else
-  deevam=1;
+while(kahve)
+  doldur=1;
+
+
 
 switch(blablabla)
   case bla:
@@ -21,3 +21,4 @@ switch(blablabla)
     break;
 while(true)
   false;
+
